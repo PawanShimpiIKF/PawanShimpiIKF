@@ -23,8 +23,10 @@
   GitHub Analytics
 </h2>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PawanShimpiIKF&show_icons=true&theme=blue-green&hide_border=true&bg_color=00000022&rank_icon=github&include_all_commits=true&custom_title=GitHub&nbsp;Stats&show_icons=true"/>
-  
- <img width="49%" src="https://github-readme-streak-stats-three-umber.vercel.app?user=PawanShimpiIKF&theme=blue-green&hide_border=true&background=00000022" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats-three-umber.vercel.app?user=PawanShimpiIKF&theme=monokai-metallian&hide_border=true&short_numbers=true" alt="GitHub Streak" height="192px"/>
+
+  <img alt="PawanShimpiIKF's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=PawanShimpiIKF&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+
+ <img width="94%" alt="PawanShimpiIKF's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=PawanShimpiIKF&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&radius=10" />
+</div>
