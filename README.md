@@ -24,6 +24,7 @@
 </h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PawanShimpiIKF&show_icons=true&theme=blue-green&hide_border=true&bg_color=00000000&show_owner=true&rank_icon=github&count_private=true"/>
-  <img width="49%" src="https://github-readme-streak-stats-three-umber.vercel.app?user=PawanShimpiIKF&theme=blue-green&hide_border=true&background=00000000"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PawanShimpiIKF&show_icons=true&theme=blue-green&hide_border=true&bg_color=00000022&rank_icon=github&include_all_commits=true&custom_title=GitHub&nbsp;Stats&show_icons=true"/>
+  
+ <img width="49%" src="https://github-readme-streak-stats-three-umber.vercel.app?user=PawanShimpiIKF&theme=blue-green&hide_border=true&background=00000022" alt="GitHub Streak" />
 </p>
